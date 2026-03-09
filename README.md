@@ -17,6 +17,5 @@
 ---
 
 ### 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Senyapp&show_icons=true&theme=radical&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Senyapp&layout=compact&theme=radical)
+[![GitHub Stats-Dark](https://gh-readme-profile.vercel.app/api?username=Senyapp&theme=dark#gh-dark-mode-only)](https://github.com/FajarKim/github-readme-profile#gh-dark-mode-only)
+[![GitHub Stats-Light](https://gh-readme-profile.vercel.app/api?username=Senyapp&theme=default#gh-light-mode-only)](https://github.com/FajarKim/github-readme-profile#gh-light-mode-only)
